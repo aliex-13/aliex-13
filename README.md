@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://blog.playstation.com/tachyon/2022/09/5023ba9abc09f511eded8cdd35f94e084a34e9ef.jpg)
+
 <!--
 **aliex-13/aliex-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
